@@ -1,0 +1,9 @@
+def reverse_korean(string):
+    #print(string)
+    if len(string) == 0:
+        return string
+    else:
+        return reverse_korean(string[1:]) + string[0]
+        
+reverseme = '안녕하세요'
+print(reverse_korean(reverseme))
