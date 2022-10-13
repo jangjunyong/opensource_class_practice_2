@@ -10,6 +10,7 @@ opensource_class_practice_week2
 
 [구글](https://www.youtube.com)
 # This page is made for my opensource class practice 
+## table of contents
 
 * 오픈소스 기초설계
 1. AI경진대회 - MIN(new : turn)
