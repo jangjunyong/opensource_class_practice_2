@@ -8,7 +8,9 @@ opensource_class_practice_week2
 ##### H4 입니다.
 ###### H5 입니다.
 
-my name is janjunyong 
-my hobby is playing league of legends
+# This page is made for my class practice 
 
+* 오픈소스 기초설계
+1. AI경진대회 - MIN(new : turn)
+2. 오픈소스기초설계 (가)분반
 
