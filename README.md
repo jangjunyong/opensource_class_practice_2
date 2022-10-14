@@ -8,7 +8,7 @@ opensource_class_practice_week2
 ##### H4 입니다.
 ###### H5 입니다.
 
-[구글](https://www.youtube.com)
+[유튜브](https://www.youtube.com)
 # This page is made for my opensource class practice 
 ## table of contents
 
